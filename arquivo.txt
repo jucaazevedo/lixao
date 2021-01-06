@@ -1,3 +1,4 @@
+linha incluida no para_apagar (que sera apagado com -R)
 master primeiro commit
 commit na branch b01
 andou no master
